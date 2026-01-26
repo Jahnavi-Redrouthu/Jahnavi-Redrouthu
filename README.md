@@ -130,7 +130,7 @@ I specialize in building **reliable, analytics-ready datasets**, optimizing larg
 
 🎓 **Master’s in Computer Science**  
 University of Missouri–Kansas City  
-*Expected: Dec 2025 | GPA: 3.567 / 4.0*
+*Expected: Dec 2025 | GPA: 3.74 / 4.0*
 
 🎓 **B.Tech in Computer Science & Engineering (Honors)**  
 KL University  
