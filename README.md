@@ -1,121 +1,150 @@
 # Portfolio - Jahnavi Redrouthu
 
-## About Me
-Hi, I am Jahnavi Redrouthu, a dedicated Computer Science professional pursuing my Master's degree at the University of Missouri Kansas City. With expertise across a broad range of technical skills, I have gained substantial experience in software development, data engineering, and artificial intelligence. My projects and internships reflect my passion for solving real-world problems using technology.
+💻 **Data Engineer | MS CS @ UMKC (Dec 2025)**  
+📍 Kansas City, MO, USA
+
+Data Engineer with **4+ years of experience** designing and scaling **batch and real-time data pipelines** across **AWS and Azure**. Strong in **Python, SQL, PySpark, Apache Spark, Kafka, Airflow, and Snowflake**.
+
+I specialize in building **reliable, analytics-ready datasets**, optimizing large-scale pipelines (up to **40% performance improvement**), and supporting **analytics and ML workflows** across **banking, healthcare, and insurance** domains.
 
 ---
 
-## 📚 Education
-
-- **Master's in Computer Science**  
-  University of Missouri Kansas City (GPA: 3.567 / 4)  
-  *Kansas City, MO, USA | Expected: Dec 2025*
-
-- **B.Tech in Computer Science and Engineering (Honors)**  
-  KL University (CGPA: 9.18 / 10)  
-  *Vijayawada, India | 2019 - 2023*
+## 🚀 What I Do
+- Build and optimize **ETL/ELT pipelines** (batch & streaming)
+- Design **real-time data pipelines** using Kafka & Spark Streaming
+- Develop **cloud-native data platforms** on AWS & Azure
+- Ensure **data quality, validation, and monitoring**
+- Enable analytics & ML teams with clean, trusted data
 
 ---
 
-## 🛠️ Technical Skills
+## 🧰 Tech Stack
 
-**Programming Languages:**  
-Python, Java, C, C++, Pylatex, SharCC, R.
+**Languages**
+- Python, SQL, PySpark, Java, JavaScript
 
-**Web Scripting Languages:**  
-JavaScript, Latex, JSON, jQuery, CSS, HTML, DHTML.
+**Big Data & Streaming**
+- Apache Spark, Kafka, Hadoop, Hive
+- Spark Streaming, Kinesis
 
-**Web Technologies:**  
-Django, Flask, XML, XAML, XSL, JSP, Hibernate, Servlets, Spring, Spring Boot, AWS, AngularJS, Node.js, React.js, Web Services, Bootstrap.
+**Orchestration & DevOps**
+- Apache Airflow, Jenkins
+- Docker, GitHub Actions, GitLab CI
 
-**Database Technologies:**  
-SQL Server, PL/SQL, MySQL, Hive, Teradata, MongoDB, Oracle, PostgreSQL.
+**Cloud & Data Warehouses**
+- AWS (S3, EC2, Lambda, Kinesis, IAM)
+- Azure
+- Snowflake, Teradata
 
-**Software/Tools:**  
-Ab Initio, Jenkins, Docker, Cisco Packet Tracer.
+**Databases**
+- MySQL, PostgreSQL, Oracle, MongoDB
 
-**Cloud:**  
-AWS, Azure.
-
-**Testing Tools:**  
-Automation Testing, ETL, JUnit, Visual Studio Unit Test.
-
-**Data Engineering Concepts:**  
-SQL, BI, Data ETL.
-
-**Data Science:**  
-Big Data, Hive, Hadoop, Apache Spark, HDFS, PySpark, Data Validation, Data Visualization, MapReduce, Statistics, Analytics, R Programming, Excel.
-
-**Artificial Intelligence:**  
-Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Neural Networks, Decision Making, Speech & Image Recognition.
+**Analytics & Visualization**
+- Pandas, NumPy, Matplotlib
+- Power BI, scikit-learn
 
 ---
 
-## 🏢 Professional Experience
+## 💼 Experience
 
-### Data Engineer  
-**Barclays Global Service Center, Chennai, India**  
-*July 2023 - Dec 2023*  
-- Developed a full-stack "PDF Data Extraction" project to minimize errors and reduce manual time consumption.
-- Created an **Automation Tool** in Python for validating files, improving team efficiency.
-- Transitioned a Java-based solution to Python, enhancing functionality and performance.
-- Integrated Python with databases, servers, and cloud storage systems for seamless connectivity.
+### **Data Engineer (Contract)**
+**Webster — USA**  
+*Current*
+- Working on data-driven solutions supporting business and academic systems.
+- Developing and maintaining **Python- and SQL-based data workflows**.
+- Assisting with data integration, validation, and reporting tasks.
+- Collaborating with cross-functional teams to improve data reliability and accessibility.
 
-### Peer Mentor  
-**KLEF, Vijayawada, India**  
-*July 2019 - April 2022*  
-- Planned and designed learning modules for peers in courses like Artificial Neural Networks and Compiler Design.
-- Served as team lead for Automata Theory projects, collaborating with professors and students.
+### **Senior ETL / Data Engineer**
+**Cigna Group — USA**  
+*Jul 2024 – Apr 2025*
+- Built enterprise-scale **batch and streaming pipelines** for healthcare claims data.
+- Designed **Spark & SQL transformation workflows**, improving data availability by **40%**.
+- Implemented **real-time ingestion** using AWS Kinesis and Lambda.
+- Delivered analytics-ready datasets for BI and ML teams.
+
+### **Data Engineer**
+**Barclays Global Service Center — India**  
+*Jul 2023 – Dec 2023*
+- Developed **PDF data extraction pipelines** to reduce manual processing.
+- Built Python automation tools for **file validation and quality checks**.
+- Migrated Java-based workflows to **Python**, improving performance.
+- Integrated pipelines with databases, servers, and cloud storage.
 
 ---
 
 ## 🧑‍💻 Internships
 
-### Software Developer  
-**Bosch Global Software Technologies, Coimbatore, India**  
-*Sep 2022 - May 2023*  
-- Developed a **Smart Test Design Tool** using Python and Latex for efficient documentation.
+**Software Developer & Team Lead — Samsung PRISM**  
+- Led a **web scraping pipeline** for FasTag toll data using Python, Django, and SQL.
+- Published a **research paper** based on project outcomes.
 
-### Software Developer & Team Lead  
-**Samsung Prism, Vijayawada, India**  
-*Sep 2021 - Oct 2022*  
-- Led the **Web Scraping for FasTag Service** project to extract toll data and calculate costs using Python Django and SQL.
+**Software Developer — Bosch Global Software Technologies**  
+- Built a **Smart Test Design Tool** using Python and LaTeX.
 
-### Intern  
-**Indian Servers, Vijayawada, India**  
-*Sep 2021 - Oct 2022*  
-- Developed a Traffic Signs Recognition system using Deep Learning with CNN and Keras.
+**ML Intern — Indian Servers**  
+- Developed a **Traffic Sign Recognition system** using CNNs and Keras.
 
 ---
 
-## 📂 Academic Projects
+## 📊 Academic & Personal Projects
 
-### KL FOODWRAP  
-- Designed a website for KL University students to access dining-related information.  
-- Tech Stack: Java, JavaScript, HTML, CSS, JSP, Servlets, JDBC, Oracle.
+### 🔹 Real-Time Traffic Analysis (Big Data Project)
+- **Tech:** Python, Kafka, Spark Streaming, Flask
+- Built a real-time pipeline to ingest, process, and analyze traffic data.
+- Implemented live filtering, aggregation, and trend analysis.
+- Visualized traffic patterns through interactive dashboards.
 
-### Student Development Projects (SDPs)  
-- **SDP-1:** Travel & Tourism Platform  
-  *Tech Stack:* Angular, React, NodeJS, MongoDB.  
-- **SDP-2:** Educational Management System  
-  *Tech Stack:* Python, Django, Flask, PostgreSQL.  
-- **SDP-3:** Career Management Solution  
-  *Tech Stack:* Spring Boot, Java, JSP, MySQL.
+### 🔹 Web-Based NAS Management System
+- **Tech:** Python, Flask, Linux, AWS
+- Designed a web interface for managing a NAS server.
+- Implemented file management, user access control, monitoring, and backups.
+
+### 🔹 KL FoodWrap
+- **Tech:** Java, JSP, Servlets, JDBC, Oracle
+- Developed a campus-focused web platform for dining services.
+
+### 🔹 Student Development Projects (SDPs)
+
+**SDP-1: Travel & Tourism Platform**  
+- **Tech:** Angular, React, Node.js, MongoDB  
+
+**SDP-2: Educational Management System**  
+- **Tech:** Python, Django, Flask, PostgreSQL  
+
+**SDP-3: Career Management Solution**  
+- **Tech:** Spring Boot, Java, JSP, MySQL  
+
+---
+
+## 🔬 Research & Publications
+
+### **National Highway Toll Fare Estimation Using Polygon Bound Through Web Scraping**
+- **Journal:** IJFEANS, Volume 8, Issue 3
+- Implemented large-scale **web scraping** and cost estimation pipelines.
+- Applied polygon-bound logic for real-world transportation analytics.
 
 ---
 
-## 📜 Publication
-- **Title:** National Highway Toll Fare Estimation Using Polygon Bound Through Web Scraping  
-  *Journal Name:* IJFEANS, Volume 8, Issue 3 (2019)  
+## 📚 Education
+
+🎓 **Master’s in Computer Science**  
+University of Missouri–Kansas City  
+*Expected: Dec 2025 | GPA: 3.567 / 4.0*
+
+🎓 **B.Tech in Computer Science & Engineering (Honors)**  
+KL University  
+*CGPA: 9.18 / 10*
 
 ---
 
-## 💼 Contact Information
-
-- **Location:** Kansas City, MO, 64111, USA  
-- **Phone:** +1 913-278-7395  
-- **Email:** jahnaviredrouthu479@gmail.com  
-- **GitHub:** [Jahnavi Redrouthu](https://github.com/Jahnavi-Redrouthu)  
-- **LinkedIn:** [Jahnavi Redrouthu](https://www.linkedin.com/in/jahnavi-redrouthu/)
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jahnavi-Redrouthu&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jahnavi-Redrouthu&layout=compact&theme=dark)
 
 ---
+
+## 📫 Let’s Connect
+- 📧 Email: **jahnaviredrouthu479@gmail.com**
+- 💼 LinkedIn: [linkedin.com/in/jahnavi-redrouthu](https://www.linkedin.com/in/jahnavi-redrouthu/)
+- 💻 GitHub: [github.com/Jahnavi-Redrouthu](https://github.com/Jahnavi-Redrouthu)
