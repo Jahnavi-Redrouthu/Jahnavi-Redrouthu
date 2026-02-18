@@ -1,7 +1,7 @@
 # Portfolio - Jahnavi Redrouthu
 
 💻 **Data Engineer | MS CS @ UMKC (Dec 2025)**  
-📍 Kansas City, MO, USA
+📍 United States
 
 Data Engineer with **4+ years of experience** designing and scaling **batch and real-time data pipelines** across **AWS and Azure**. Strong in **Python, SQL, PySpark, Apache Spark, Kafka, Airflow, and Snowflake**.
 
