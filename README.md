@@ -101,9 +101,12 @@ KL University
 
 ---
 
+
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jahnavi-Redrouthu&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jahnavi-Redrouthu&layout=compact&theme=dark)
+
+![Jahnavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jahnavi-Redrouthu&show_icons=true&theme=default&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jahnavi-Redrouthu&layout=compact&theme=default&cache_seconds=1800)
 
 ---
 
