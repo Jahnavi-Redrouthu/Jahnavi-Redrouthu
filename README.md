@@ -100,11 +100,12 @@ KL University
 *IJFEANS Journal — Volume 8, Issue 3 (2019)*
 
 ---
+
 ## 📈 GitHub Stats
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jahnavi-Redrouthu&theme=default)
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jahnavi-Redrouthu&theme=default)
+![Overall GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jahnavi-Redrouthu&show_icons=true&count_private=true&include_all_commits=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jahnavi-Redrouthu&layout=compact&count_private=true)
 
 ---
 
