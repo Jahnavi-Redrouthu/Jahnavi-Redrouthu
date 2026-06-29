@@ -3,7 +3,7 @@
 💻 **Software Data Engineer @ Webster Bank | AWS | Azure | MS in Computer Science, UMKC Graduate**  
 📍 Kansas City, MO, USA
 
-Data Engineer with **4+ years of experience** designing and scaling **batch and real-time data pipelines** across **AWS and Azure**. Strong expertise in **Python, SQL, PySpark, Apache Spark, Kafka, Airflow, Snowflake**, and cloud data warehouses.
+Data Engineer with **5+ years of experience** designing and scaling **batch and real-time data pipelines** across **AWS and Azure**. Strong expertise in **Python, SQL, PySpark, Apache Spark, Kafka, Airflow, Snowflake**, and cloud data warehouses.
 
 I specialize in building **reliable, analytics-ready datasets**, designing **dimensional data models (Star Schema, SCD Type 1/2)**, optimizing large-scale pipelines (up to **40% performance improvement**), and supporting **BI, risk reporting, and ML workflows** across **banking, healthcare, and insurance** domains.
 
