@@ -1,7 +1,7 @@
 # Portfolio - Jahnavi Redrouthu
 
 💻 **Software Data Engineer @ Webster Bank | AWS | Azure | MS in Computer Science, UMKC Graduate**  
-📍 Kansas City, MO, USA
+📍 United States
 
 Data Engineer with **5+ years of experience** designing and scaling **batch and real-time data pipelines** across **AWS and Azure**. Strong expertise in **Python, SQL, PySpark, Apache Spark, Kafka, Airflow, Snowflake**, and cloud data warehouses.
 
